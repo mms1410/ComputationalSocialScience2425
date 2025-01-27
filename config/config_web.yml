@@ -1,29 +1,8 @@
-# legislature periods
-legislature_periods:
-  1949-1953: CDU
-  1953-1957: CDU
-  1957-1961: CDU
-  1961-1965: CDU
-  1965-1969: CDU
-  1969-1972: SPD
-  1972-1976: SPD
-  1976-1980: SPD
-  1980-1983: SPD
-  1983-1987: CDU
-  1987-1990: CDU
-  1990-1994: CDU
-  1994-1998: CDU
-  1998-2002: SPD
-  2002-2005: SPD
-  2005-2009: CDU
-  2009-2013: CDU
-  2013-2017: CDU
-  2017-2021: CDU
-  2021-2025: SPD
-
 # federal level coalition contracts
 cdu_contract: "https://www.kas.de/de/web/geschichte-der-cdu/koalitionsvertraege"
 spd_contract: "https://www.fes.de/bibliothek/koalitionsvereinbarungen-der-spd-auf-bundesebene"
 # federal level election programs
 cdu_program: "https://www.kas.de/de/web/geschichte-der-cdu/wahlen-zum-deutschen-bundestag"
 spd_program: "https://www.fes.de/bibliothek/grundsatz-regierungs-und-wahlprogramme-der-spd-nach-1945"
+# events data
+bpd: "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/""
